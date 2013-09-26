@@ -1,0 +1,8 @@
+name = Garland Subtheme for Next
+description = Modified theme for NextCorp
+core = 7.x
+engine = phptemplate
+base theme = garland
+
+screenshot = screenshot.png
+stylesheets[all][] = css/style.css
